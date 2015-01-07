@@ -48,7 +48,7 @@ class ViewController: UIViewController {
         
         
         // Create a blank animation using the keyPath "cornerRadius", the property we want to animate
-        let animation = CABasicAnimation(keyPath: "shadowRadius")
+        let animation = CABasicAnimation(keyPath: "cornerRadius")
 
         // Set the starting value
         animation.fromValue = redLayer.cornerRadius
