@@ -13,6 +13,7 @@
 		026CD8031A5CA564006247EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 026CD8021A5CA564006247EC /* Images.xcassets */; };
 		026CD8061A5CA564006247EC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 026CD8041A5CA564006247EC /* LaunchScreen.xib */; };
 		026CD8121A5CA564006247EC /* CoreAnimationTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026CD8111A5CA564006247EC /* CoreAnimationTutorialTests.swift */; };
+		026CD81C1A5CA7D7006247EC /* ButterflySmall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 026CD81B1A5CA7D7006247EC /* ButterflySmall.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		026CD80B1A5CA564006247EC /* CoreAnimationTutorialTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreAnimationTutorialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		026CD8101A5CA564006247EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		026CD8111A5CA564006247EC /* CoreAnimationTutorialTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreAnimationTutorialTests.swift; sourceTree = "<group>"; };
+		026CD81B1A5CA7D7006247EC /* ButterflySmall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ButterflySmall.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		026CD7F81A5CA564006247EC /* CoreAnimationTutorial */ = {
 			isa = PBXGroup;
 			children = (
+				026CD81B1A5CA7D7006247EC /* ButterflySmall.jpg */,
 				026CD7FB1A5CA564006247EC /* AppDelegate.swift */,
 				026CD7FD1A5CA564006247EC /* ViewController.swift */,
 				026CD7FF1A5CA564006247EC /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				026CD8011A5CA564006247EC /* Main.storyboard in Resources */,
 				026CD8061A5CA564006247EC /* LaunchScreen.xib in Resources */,
 				026CD8031A5CA564006247EC /* Images.xcassets in Resources */,
+				026CD81C1A5CA7D7006247EC /* ButterflySmall.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
